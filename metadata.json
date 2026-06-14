@@ -1,0 +1,8 @@
+{
+  "name": "Wedding Anniversary",
+  "description": "A premium Korean retro-themed wedding anniversary app featuring an interactive cassette playlist, Polaroid gallery, love story timeline, and customized love letters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
